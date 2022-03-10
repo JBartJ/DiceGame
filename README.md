@@ -9,4 +9,5 @@ Every player is supposed to roll the dice by clicking ROLL DICE button, and the 
 - NEW GAME button resets the game.
 NOTE:
 - You need to download all of png files in this repository for game to work properly.
+# App preview:
 ![image](https://user-images.githubusercontent.com/99435285/157735985-9f17a557-8446-4969-9cb2-40e4fa3bd16a.png)
